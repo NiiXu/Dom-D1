@@ -1,0 +1,9 @@
+8
+52C:\Users\chenh\Desktop\DOM-D1\dist\index.01a1c8c0.js132645991262956592 0
+41C:\Users\chenh\Desktop\DOM-D1\src\main.js132645992340830000 0
+34C:\Users\chenh\Desktop\DOM-D1\dist132645991263076204 1
+33C:\Users\chenh\Desktop\DOM-D1\src132645992340783995 1
+40C:\Users\chenh\Desktop\DOM-D1\src\dom.js132645991935536701 0
+44C:\Users\chenh\Desktop\DOM-D1\src\index.html132645991355337872 0
+56C:\Users\chenh\Desktop\DOM-D1\dist\index.01a1c8c0.js.map132645991263046288 0
+45C:\Users\chenh\Desktop\DOM-D1\dist\index.html132645991262956592 0
